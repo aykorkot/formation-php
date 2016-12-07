@@ -17,8 +17,8 @@
 <?php 
 
 	//Declarer une constante 
-	define('AFFICHE', 'fr');
-
+/*	define('AFFICHE', 'fr');
+*/
 
 
 		/*----------------------------------*/
@@ -40,7 +40,7 @@
 
 		/*----------------------------------*/
 
-
+/*
 	$langue = array(
 		'en'=>'<p style="color:red">HELLO WORLD</p>',
 		'fr'=>'<p style="color:green">BONJOUR LE MONDE</p>'
@@ -48,7 +48,7 @@
 
 
 	$affichage = 'en';
-	$retourligne = '<br />';
+	$retourligne = '<br />';*/
 
 	//délimiter une chaine de caratère avec la syntaxe heredoc, en donnant un identifient
 	/*	$toto = <<<EOT
@@ -108,10 +108,10 @@
 	 		*/
 
 	 	/*------------------------------------------------------------*/
-
+/*
 	 	echo $langue[AFFICHE];
 	 	echo $retourligne;
-
+*/
 
  ?>
 

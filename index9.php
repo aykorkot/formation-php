@@ -48,7 +48,7 @@
 
 
 <?php 
-	
+/*	
 	if(AFFICHE=='all'){
 		$recap='';
 		foreach ($langues as $lang => $message) {
@@ -82,7 +82,7 @@
 	}
 
 	$retourligne = '<br />';
-	echo $retourligne;
+	echo $retourligne;*/
 
  ?>
 
