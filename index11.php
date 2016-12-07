@@ -5,7 +5,7 @@ session_start();
 
 // exemple de création des variables tests dans $_SESSION
 $_SESSION['prenom']='ayman';
-$_SESSION['nom']='korkot';
+$_SESSION['nom']='ali';
 $_SESSION['age']=24;
  ?>
 
